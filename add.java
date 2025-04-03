@@ -9,7 +9,13 @@ int j=sc.nextInt();
 
 int k=i*j;
 System.out.println("multiplication  : "+k);
+int m=i-j;
+System.out.println("subtraction :"+m);
+
+
 sc.close();
+
+
 }
 
 }
